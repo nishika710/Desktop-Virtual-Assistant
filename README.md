@@ -20,11 +20,11 @@
 7.  Takes Screenshots
 8.  Open My Documents
 9.  Play Youtube Videos
-10. Weather Updates
-11. News Updates
-12. Jokes
-13. Tells date and time
-14. Generates Password
-15. Send What’s App Messages
-
+10.  Weather Updates
+11.  News Updates
+12.  Jokes
+13.  Tells date and time
+14.  Generates Password
+15.  Send What’s App Messages
+    
 Results: I have added the screenshots of output in the Result folder,one can view from there.
